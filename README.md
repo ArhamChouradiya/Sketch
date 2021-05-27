@@ -1,6 +1,6 @@
 # Sketch
 
-This is a python project to create a sktech of an image using OpenCV library.
+This is a python project to create a sketch of an image using OpenCV library.
 
 ### Steps to download and run the project:
 1. Clone the repository
